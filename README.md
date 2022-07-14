@@ -1,6 +1,6 @@
 # Dictcheck
 
-Utility to check a word on the dictionary using (DictionaryApi)[https://dictionaryapi.dev/].
+Utility to check a word on the dictionary using [DictionaryApi](https://dictionaryapi.dev/).
 
 # Example
 
